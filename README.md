@@ -2,7 +2,7 @@
 
 ### 🚀 About Me:
 
-💻 I'm a second-year Computer Engineering student at McMaster University with a strong interest in technology and solving complex problems. Currently exploring areas such as web development, machine learning, embedded systems, and microprocessors. I'm always seeking new challenges to expand my skill set and apply my knowledge to real-world applications. <br/>
+💻 I'm a third-year Computer Engineering student at McMaster University with a strong interest in technology and solving complex problems. Currently exploring areas such as web development, machine learning, embedded systems, and microprocessors. I'm always seeking new challenges to expand my skill set and apply my knowledge to real-world applications. <br/>
 
 #### 📚 Skills:
 
